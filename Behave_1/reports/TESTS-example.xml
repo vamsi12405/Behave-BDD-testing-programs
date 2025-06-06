@@ -1,0 +1,15 @@
+<testsuite name="example.Registration on Automation Demo Website" tests="1" errors="0" failures="0" skipped="1" time="0.0" timestamp="2025-06-03T19:13:36.843988" hostname="DESKTOP-1UTKSQA"><testcase classname="example.Registration on Automation Demo Website" name="Registration with valid input data" status="untested" time="0"><skipped /><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Registration with valid input data
+    Given I open registration page ... untested in 0.000s
+    And I verify the page ... untested in 0.000s
+    When I enter registration details ... untested in 0.000s
+    And I click the input values ... untested in 0.000s
+    And I enter select Input ... untested in 0.000s
+    Then action should  be successful ... untested in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

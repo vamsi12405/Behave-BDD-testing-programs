@@ -1,0 +1,2 @@
+[WARNING] 2025-06-03 19:25:40 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=52832): Read timed out. (read timeout=120)")': /session/8fe957a778877e39f6e513d11f8a29f5/window
+[WARNING] 2025-06-04 15:43:08 - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
