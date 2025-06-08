@@ -1,0 +1,30 @@
+2025-06-08 11:36:03,262 - INFO - Page Opened
+2025-06-08 11:36:03,303 - INFO - Page succesfully verified
+2025-06-08 11:36:03,304 - INFO - Operations being performed
+2025-06-08 11:47:36,074 - INFO - Page Opened
+2025-06-08 11:47:36,114 - INFO - Page succesfully verified
+2025-06-08 11:47:36,115 - INFO - Operations being performed
+2025-06-08 11:51:49,049 - INFO - Page Opened
+2025-06-08 11:51:49,090 - INFO - Page succesfully verified
+2025-06-08 11:51:49,091 - INFO - first operation is being performed
+2025-06-08 11:51:54,333 - INFO - first alert is succesful
+2025-06-08 11:51:54,334 - INFO - second operation is being performed
+2025-06-08 11:51:54,533 - INFO - second alert is succesful
+2025-06-08 11:51:54,534 - INFO - third operation is being performed
+2025-06-08 11:51:54,657 - INFO - third alert is succesful
+2025-06-08 11:52:16,337 - INFO - Page Opened
+2025-06-08 11:52:16,380 - INFO - Page succesfully verified
+2025-06-08 11:52:16,381 - INFO - first operation is being performed
+2025-06-08 11:52:20,865 - INFO - first alert is succesful
+2025-06-08 11:52:20,865 - INFO - second operation is being performed
+2025-06-08 11:52:21,046 - INFO - second alert is succesful
+2025-06-08 11:52:21,047 - INFO - third operation is being performed
+2025-06-08 11:52:21,157 - INFO - third alert is succesful
+2025-06-08 11:56:26,775 - INFO - Page Opened
+2025-06-08 11:56:26,833 - INFO - Page succesfully verified
+2025-06-08 11:56:26,834 - INFO - first operation is being performed
+2025-06-08 11:56:32,083 - INFO - first alert is succesful
+2025-06-08 11:56:32,084 - INFO - second operation is being performed
+2025-06-08 11:56:32,295 - INFO - second alert is succesful
+2025-06-08 11:56:32,297 - INFO - third operation is being performed
+2025-06-08 11:56:32,404 - INFO - third alert is succesful

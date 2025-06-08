@@ -1,0 +1,18 @@
+<testsuite name="example.Checking Different Functionalities" tests="1" errors="0" failures="0" skipped="0" time="9.909702" timestamp="2025-06-08T11:52:21.158305" hostname="Vamsi-Acer-Lite"><testcase classname="example.Checking Different Functionalities" name="Checking Alert Functionality" status="passed" time="9.909702"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Checking Alert Functionality
+    Given webpage with proper credentials ... passed in 5.133s
+    Then 'first' type of alert is verified amd addressed ... passed in 4.484s
+    And 'second' type of alert is verified and addressed ... passed in 0.181s
+    And 'third' type of alert is veritifed an addressed ... passed in 0.111s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+I am an alert box!
+Press a Button !
+
+]]>
+</system-out></testcase></testsuite>
