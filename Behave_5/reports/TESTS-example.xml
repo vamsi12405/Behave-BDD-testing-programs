@@ -1,0 +1,11 @@
+<testsuite name="example.File functionality" tests="1" errors="0" failures="0" skipped="0" time="4.697375" timestamp="2025-06-08T13:46:06.714091" hostname="Vamsi-Acer-Lite"><testcase classname="example.File functionality" name="File upload and download" status="passed" time="4.697375"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: File upload and download
+    Given File element ... passed in 4.579s
+    Then we perform upload ... passed in 0.118s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

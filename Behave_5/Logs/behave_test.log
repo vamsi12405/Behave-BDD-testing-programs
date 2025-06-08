@@ -1,0 +1,9 @@
+2025-06-08 13:45:46,955 - INFO - Page Opened
+2025-06-08 13:45:47,051 - INFO - File Operation started
+2025-06-08 13:45:47,052 - ERROR - error is [Errno 2] No such file or directory: 'C:\\Users\\vamsi\\Desktop\\Behave\\Behave_5\\file1.txt\\file1.txt'
+2025-06-08 13:46:06,482 - INFO - Page Opened
+2025-06-08 13:46:06,595 - INFO - File Operation started
+2025-06-08 13:46:06,595 - ERROR - error is [Errno 2] No such file or directory: 'C:\\Users\\vamsi\\Desktop\\Behave\\Behave_5\\file1.txt\\file1.txt'
+2025-06-08 13:54:20,717 - INFO - Page Opened
+2025-06-08 13:54:20,804 - INFO - File Operation started
+2025-06-08 13:54:20,805 - ERROR - error is [Errno 2] No such file or directory: 'C:\\Users\\vamsi\\Desktop\\Behave\\Behave_5\\file1.txt\\file1.txt'
