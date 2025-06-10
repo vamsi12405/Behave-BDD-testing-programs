@@ -1,0 +1,11 @@
+<testsuite name="example.Actionchans functionality" tests="1" errors="0" failures="0" skipped="0" time="12.199814" timestamp="2025-06-10T08:50:01.468478" hostname="Vamsi-Acer-Lite"><testcase classname="example.Actionchans functionality" name="send_keys functionlaity" status="passed" time="12.199814"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: send_keys functionlaity
+    Given website with proper credentials ... passed in 1.893s
+    Then we perform ActionChains operation ... passed in 10.307s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
