@@ -1,0 +1,13 @@
+<testsuite name="example.Click Functionality" tests="1" errors="0" failures="0" skipped="0" time="7.818398" timestamp="2025-06-10T08:07:18.245489" hostname="Vamsi-Acer-Lite"><testcase classname="example.Click Functionality" name="Implement All three clicks in BDD" status="passed" time="7.818398"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Implement All three clicks in BDD
+    Given the web credentials ... passed in 4.581s
+    Then 'Click' operation is performed ... passed in 0.331s
+    And 'Double Click' operation is performed ... passed in 2.548s
+    And 'Context Click' operation is performed ... passed in 0.357s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
