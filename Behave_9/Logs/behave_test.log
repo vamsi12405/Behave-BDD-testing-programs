@@ -1,0 +1,81 @@
+2025-06-10 17:27:11,396 - INFO - Page Opened
+2025-06-10 17:27:11,508 - INFO - Operation is performed
+2025-06-10 17:27:31,960 - ERROR - Error occured,Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='SingleFrame']"}
+  (Session info: chrome=137.0.7151.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6ec94fea5+79173]
+	GetHandleVerifier [0x0x7ff6ec94ff00+79264]
+	(No symbol) [0x0x7ff6ec709e5a]
+	(No symbol) [0x0x7ff6ec760586]
+	(No symbol) [0x0x7ff6ec76083c]
+	(No symbol) [0x0x7ff6ec7b4247]
+	(No symbol) [0x0x7ff6ec7889af]
+	(No symbol) [0x0x7ff6ec7b100d]
+	(No symbol) [0x0x7ff6ec788743]
+	(No symbol) [0x0x7ff6ec7514c1]
+	(No symbol) [0x0x7ff6ec752253]
+	GetHandleVerifier [0x0x7ff6ecc1a2dd+3004797]
+	GetHandleVerifier [0x0x7ff6ecc1472d+2981325]
+	GetHandleVerifier [0x0x7ff6ecc33380+3107360]
+	GetHandleVerifier [0x0x7ff6ec96aa2e+188622]
+	GetHandleVerifier [0x0x7ff6ec9722bf+219487]
+	GetHandleVerifier [0x0x7ff6ec958df4+115860]
+	GetHandleVerifier [0x0x7ff6ec958fa9+116297]
+	GetHandleVerifier [0x0x7ff6ec93f558+11256]
+	BaseThreadInitThunk [0x0x7ff9f6b3e8d7+23]
+	RtlUserThreadStart [0x0x7ff9f825c5dc+44]
+
+2025-06-10 17:28:04,807 - INFO - Page Opened
+2025-06-10 17:28:07,695 - INFO - Operation is performed
+2025-06-10 17:28:28,126 - ERROR - Error occured,Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='SingleFrame']"}
+  (Session info: chrome=137.0.7151.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6ec94fea5+79173]
+	GetHandleVerifier [0x0x7ff6ec94ff00+79264]
+	(No symbol) [0x0x7ff6ec709e5a]
+	(No symbol) [0x0x7ff6ec760586]
+	(No symbol) [0x0x7ff6ec76083c]
+	(No symbol) [0x0x7ff6ec7b4247]
+	(No symbol) [0x0x7ff6ec7889af]
+	(No symbol) [0x0x7ff6ec7b100d]
+	(No symbol) [0x0x7ff6ec788743]
+	(No symbol) [0x0x7ff6ec7514c1]
+	(No symbol) [0x0x7ff6ec752253]
+	GetHandleVerifier [0x0x7ff6ecc1a2dd+3004797]
+	GetHandleVerifier [0x0x7ff6ecc1472d+2981325]
+	GetHandleVerifier [0x0x7ff6ecc33380+3107360]
+	GetHandleVerifier [0x0x7ff6ec96aa2e+188622]
+	GetHandleVerifier [0x0x7ff6ec9722bf+219487]
+	GetHandleVerifier [0x0x7ff6ec958df4+115860]
+	GetHandleVerifier [0x0x7ff6ec958fa9+116297]
+	GetHandleVerifier [0x0x7ff6ec93f558+11256]
+	BaseThreadInitThunk [0x0x7ff9f6b3e8d7+23]
+	RtlUserThreadStart [0x0x7ff9f825c5dc+44]
+
+2025-06-10 17:29:29,614 - INFO - Page Opened
+2025-06-10 17:29:29,726 - INFO - Operation is performed
+2025-06-10 17:29:52,173 - ERROR - Error occured,Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='SingleFrame']"}
+  (Session info: chrome=137.0.7151.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6ec94fea5+79173]
+	GetHandleVerifier [0x0x7ff6ec94ff00+79264]
+	(No symbol) [0x0x7ff6ec709e5a]
+	(No symbol) [0x0x7ff6ec760586]
+	(No symbol) [0x0x7ff6ec76083c]
+	(No symbol) [0x0x7ff6ec7b4247]
+	(No symbol) [0x0x7ff6ec7889af]
+	(No symbol) [0x0x7ff6ec7b100d]
+	(No symbol) [0x0x7ff6ec788743]
+	(No symbol) [0x0x7ff6ec7514c1]
+	(No symbol) [0x0x7ff6ec752253]
+	GetHandleVerifier [0x0x7ff6ecc1a2dd+3004797]
+	GetHandleVerifier [0x0x7ff6ecc1472d+2981325]
+	GetHandleVerifier [0x0x7ff6ecc33380+3107360]
+	GetHandleVerifier [0x0x7ff6ec96aa2e+188622]
+	GetHandleVerifier [0x0x7ff6ec9722bf+219487]
+	GetHandleVerifier [0x0x7ff6ec958df4+115860]
+	GetHandleVerifier [0x0x7ff6ec958fa9+116297]
+	GetHandleVerifier [0x0x7ff6ec93f558+11256]
+	BaseThreadInitThunk [0x0x7ff9f6b3e8d7+23]
+	RtlUserThreadStart [0x0x7ff9f825c5dc+44]
+

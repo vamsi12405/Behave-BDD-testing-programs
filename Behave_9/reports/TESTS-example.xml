@@ -1,0 +1,11 @@
+<testsuite name="example.Testing various functionalities in webpage" tests="1" errors="0" failures="0" skipped="0" time="23.74353" timestamp="2025-06-10T17:28:28.126885" hostname="Vamsi-Acer-Lite"><testcase classname="example.Testing various functionalities in webpage" name="Testing the iframe functionality" status="passed" time="23.74353"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Testing the iframe functionality
+    Given The webpage with valid credentialis ... passed in 3.312s
+    Then we enter input into iframe ... passed in 20.431s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
