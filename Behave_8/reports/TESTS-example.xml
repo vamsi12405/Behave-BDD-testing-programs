@@ -1,0 +1,11 @@
+<testsuite name="example.Multiple Elements Functionality" tests="1" errors="0" failures="0" skipped="0" time="2.353618" timestamp="2025-06-10T18:16:01.744039" hostname="Vamsi-Acer-Lite"><testcase classname="example.Multiple Elements Functionality" name="Testing table and fetching multiple data" status="passed" time="2.353618"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Testing table and fetching multiple data
+    Given Webpage with proper credentials ... passed in 2.317s
+    Then We fetch data from tables ... passed in 0.036s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
