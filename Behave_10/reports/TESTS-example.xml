@@ -1,0 +1,17 @@
+<testsuite name="example.Complex Web Functiolanity" tests="1" errors="0" failures="1" skipped="0" time="1.654068" timestamp="2025-06-12T16:28:26.732042" hostname="Vamsi-Acer-Lite"><testcase classname="example.Complex Web Functiolanity" name="Window Handles" status="failed" time="1.654068"><failure type="AssertionError" message="User in wrong application(title)">
+<![CDATA[
+Failing step: Given The Website with right credentials ... failed in 1.654s
+Location: features/example.feature:3
+Assertion Failed: User in wrong application(title)]]>
+</failure><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Window Handles
+    Given The Website with right credentials ... failed in 1.654s
+    When we click on desired items ... skipped in 0.000s
+    Then we must execute window handles functionality ... skipped in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
